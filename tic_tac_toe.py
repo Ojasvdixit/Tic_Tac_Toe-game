@@ -177,18 +177,3 @@ if __name__ == "__main__":
                 turn=rd.choice(l)
                 continue
         
-                
-
-
-
-
-
-
-
-
-
-        
-        
-        
-    
-    
